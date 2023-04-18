@@ -1,0 +1,9 @@
+.container {
+	display: flex;
+	gap: 0 1.6rem;
+}
+
+.favorite_container {
+	width: 100%;
+	height: auto;
+}
